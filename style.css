@@ -1,0 +1,92 @@
+ 
+.jmbback
+{
+    background: url('./images/bg-masthead.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+     color: white;
+    
+}
+.mdfemail
+{ 
+    display: flex;  
+    margin-left: 300px;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 90px;
+}
+
+
+ .fontaws 
+ {
+     font-size: 45px;
+     text-align: center;
+     color: #007BFF;
+    
+ }
+
+
+ .fnt{
+     background-color: white;
+     
+     text-align: center;
+     margin-bottom: 50px;
+     padding: 50px;
+ }
+
+ .iphone
+ {
+     background-image: url('./images/01.jpg');
+ }
+
+ .parag
+ {
+     background-color: #F8F9FA;
+     padding: 100px;
+
+    
+ }
+
+ .devp1
+ {
+     background-image: url('./images/02.jpg');
+ }
+ .boy
+ {
+    background-image: url('./images/03.jpg');
+ }
+
+ .gg
+ {
+     border : none;
+     text-align: center;
+     
+ }
+
+ .img1
+ {
+     border-radius: 300%;
+     box-shadow: 4px 4px 4px #B7BEC5;
+
+ }
+
+ 
+ .bdy
+ {
+    background-color: #F8F9FA;
+ }
+
+ .peop
+ {
+    padding: 50px;
+    text-align: center justify;
+    font-size: 29px;
+ }
+
+
+ .fontaws2
+ {
+    font-size: 30px;
+   
+    color: #007BFF;
+ }
