@@ -37,6 +37,7 @@
  .iphone
  {
      background-image: url('./images/01.jpg');
+   
  }
 
  .parag
@@ -50,6 +51,7 @@
  .devp1
  {
      background-image: url('./images/02.jpg');
+     
  }
  .boy
  {
@@ -87,6 +89,25 @@
  .fontaws2
  {
     font-size: 30px;
+    color: #007BFF;
    
+
+ }
+
+ .fontaws2 >i
+ {
+  
+   padding: 10px;
+
+ }
+ .part2
+ {
+     background-color:#F7F7F9;
+ 
+ 
+ }
+
+ .finsite
+ {
     color: #007BFF;
  }
